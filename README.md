@@ -1,1 +1,1 @@
-![Alt text](/readme/result.png?raw=true "Result")
+![alt tag](https://raw.githubusercontent.com/pquochoang2007/view_inbox_image/master/image_viewer/readme/result.png)
