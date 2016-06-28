@@ -2,7 +2,7 @@
 An addon to preview image without download in odoo open source
 
 #Technical
-    * [Fancybox](http://fancybox.net)
+    * ![Fancybox](http://fancybox.net)
     
 # How to use
     * Install addon [Settings > Modules > Install Modules]
