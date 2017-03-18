@@ -51,7 +51,7 @@ openerp.image_viewer = function (instance) {
       };
       _.each(this.attachment_ids, function (attachment) {
         model.query(['datas', 'datas_fname', 'name']).filter([
-          ['id', '=', attachment.id],
+          ['id', '=', attachment.id]
         ]).all().then(function (r) {
           r = _.filter(r, function (rr) {
             var res = /.*\.(\w+)$/.exec(rr.name);
