@@ -1,5 +1,5 @@
 # Image Viewer
-An addon to preview image without download in odoo open source
+An addon to preview image without download in [Odoo](https://www.odoo.com) open source
     
 # Depends
   * [Fancybox](http://fancybox.net) - Fancy jQuery lightbox alternative
